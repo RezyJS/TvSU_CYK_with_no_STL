@@ -1,0 +1,12 @@
+S -> A X
+S -> B Y
+S -> A A
+S -> B B
+S -> a
+S -> b
+
+X -> S A
+Y -> S B
+
+A -> a
+B -> b
